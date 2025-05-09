@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cavern
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Checkpoint
+  - Kraken
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PlayerRammy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3721840203
+    locked: 0
+  - name: Player
+    uniqueID: 2518753765
+    locked: 0
+  - name: Enemy
+    uniqueID: 1395534375
+    locked: 0
+  - name: Kraken
+    uniqueID: 2966374591
+    locked: 0
+  - name: Body
+    uniqueID: 2947786627
+    locked: 0
+  - name: Eyes
+    uniqueID: 4036620407
+    locked: 0
+  - name: temp
+    uniqueID: 1472058373
+    locked: 0

@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: a1598e2c64d00554e8286741b7793671
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OceanSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7103afec3ce149b9f900bd40d3d4a
+      internalID: 217772794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2304
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b838e7b0ee83fa2458001dfc39624eca
+      internalID: 2015599963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2304
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ea2840326f8542a9e1a80a4c8dbd0
+      internalID: 1687020639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2304
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3aa6dd70d089143b2fc38af13ba7f4
+      internalID: -2071665399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b91a34a338b8d47a7288c7968fe16c
+      internalID: 1252722971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2112
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89439e03badf3204d8385d45b604c8a3
+      internalID: 1778178009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2112
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c935185dfd3a94692ed3538c545fc6
+      internalID: 1799155750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2112
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82067593232e740b258212f2386c24
+      internalID: 1539883378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21ee9b8b774fd4bb09aff563749db6
+      internalID: 800051485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1920
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc857bc6526aba4a972846096806214
+      internalID: 2003226318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1920
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece6b3e12598544dacd3424a546c277
+      internalID: -1850447174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1920
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0657ae8cdb82c145bc4896acb205467
+      internalID: -2100784307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3265d02256d9f44592c41fd52241dcb
+      internalID: 858314679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1728
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105604db167efaa4598f0ab5b1fa7787
+      internalID: 822603726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1728
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d833288cb2086489ac41e3ebbf89a1
+      internalID: -1924448072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1728
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3221e680c8df4abc85d2874509919
+      internalID: 10955372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01272de8b2216704a8ca8a565955e424
+      internalID: -2002614236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1536
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead8bf60a85ea8240a1fcc9817ab7afb
+      internalID: 767003885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1536
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd61abfc41ada4eb7a05d2bb0d0586
+      internalID: -696041570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1536
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa847c856439094a988baa38f52808b
+      internalID: -1495943950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e81a4fef6827468935571fe2cb555
+      internalID: -123587436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1344
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dc1a40b7f6f0d4081d666dc57188ca
+      internalID: 633379642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1344
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4116943ed315f4542ad1983db889abab
+      internalID: 1461143568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1344
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324c2ec5f5db4e45b57c76ea2599108
+      internalID: 416552929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e644d9da1a05654d8058ce8ea73e79a
+      internalID: 737649831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1152
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30112871b3876c84fbf2fcf4b25eaefb
+      internalID: -2013716324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1152
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32097233d2c3174b9ee7138406bb8a5
+      internalID: -409750100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1152
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb63ab989c009df47b6b955ca3e1d820
+      internalID: 487474127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00850e5c97092814a9f0ed76ad616ab2
+      internalID: -277124247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 960
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4fcafd695b1fd449bebfebd5a4f075
+      internalID: 389544797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 960
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215f63a11a1a844ebea2b829af52065
+      internalID: 480267939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 960
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03017cbf4705024d8a2035b27e97d6b
+      internalID: -894229248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e960489402894fbc735b2df8e3644
+      internalID: 2046840824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 768
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909c13d886232c4dba669c72ab36d69
+      internalID: -1334199322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 768
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b285e0931caa4264cbb22f6133bbacdc
+      internalID: -1794611951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 768
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf90c0ad46220d44aa66a095577aa31
+      internalID: -1032564765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd9aa94063decd4f940033f365fc7a3
+      internalID: -2025207137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 576
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205d83ebcdeadb34fb776dbd79190264
+      internalID: 672198122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 576
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435f2ab74a17b314584f543cd92d5cc3
+      internalID: -1563537188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 576
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a04a8d3fa229e48ab1244281e4bf8a
+      internalID: 1908016396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65f67af7393274cacda2647276464b
+      internalID: 368321100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 384
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef3295a1151344281ade466e2e2791
+      internalID: 1737158333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 384
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338e98fe4267e642aeb556309291c7f
+      internalID: 971432865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 384
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14728b27bfaf62440b4c7a1ed56e0553
+      internalID: 1628513259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed1d6effa027a744992da2ece429392
+      internalID: 307957160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 192
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a2b220fdb611d48be77565bb603ed1
+      internalID: -1666042488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 192
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d19c27ba6b144c9510a26e7c083db
+      internalID: -557475331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 192
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265b78b04268066428906738e6959933
+      internalID: 891720602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac21947bd8cd384280acdacefb0293d
+      internalID: -1925727256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad6136da07e6a4588b74ea28810c98
+      internalID: 177150270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OceanSpriteSheet_0: 217772794
+      OceanSpriteSheet_1: 2015599963
+      OceanSpriteSheet_10: -1850447174
+      OceanSpriteSheet_11: -2100784307
+      OceanSpriteSheet_12: 858314679
+      OceanSpriteSheet_13: 822603726
+      OceanSpriteSheet_14: -1924448072
+      OceanSpriteSheet_15: 10955372
+      OceanSpriteSheet_16: -2002614236
+      OceanSpriteSheet_17: 767003885
+      OceanSpriteSheet_18: -696041570
+      OceanSpriteSheet_19: -1495943950
+      OceanSpriteSheet_2: 1687020639
+      OceanSpriteSheet_20: -123587436
+      OceanSpriteSheet_21: 633379642
+      OceanSpriteSheet_22: 1461143568
+      OceanSpriteSheet_23: 416552929
+      OceanSpriteSheet_24: 737649831
+      OceanSpriteSheet_25: -2013716324
+      OceanSpriteSheet_26: -409750100
+      OceanSpriteSheet_27: 487474127
+      OceanSpriteSheet_28: -277124247
+      OceanSpriteSheet_29: 389544797
+      OceanSpriteSheet_3: -2071665399
+      OceanSpriteSheet_30: 480267939
+      OceanSpriteSheet_31: -894229248
+      OceanSpriteSheet_32: 2046840824
+      OceanSpriteSheet_33: -1334199322
+      OceanSpriteSheet_34: -1794611951
+      OceanSpriteSheet_35: -1032564765
+      OceanSpriteSheet_36: -2025207137
+      OceanSpriteSheet_37: 672198122
+      OceanSpriteSheet_38: -1563537188
+      OceanSpriteSheet_39: 1908016396
+      OceanSpriteSheet_4: 1252722971
+      OceanSpriteSheet_40: 368321100
+      OceanSpriteSheet_41: 1737158333
+      OceanSpriteSheet_42: 971432865
+      OceanSpriteSheet_43: 1628513259
+      OceanSpriteSheet_44: 307957160
+      OceanSpriteSheet_45: -1666042488
+      OceanSpriteSheet_46: -557475331
+      OceanSpriteSheet_47: 891720602
+      OceanSpriteSheet_48: -1925727256
+      OceanSpriteSheet_49: 177150270
+      OceanSpriteSheet_5: 1778178009
+      OceanSpriteSheet_50: -1636838743
+      OceanSpriteSheet_51: 411787079
+      OceanSpriteSheet_6: 1799155750
+      OceanSpriteSheet_7: 1539883378
+      OceanSpriteSheet_8: 800051485
+      OceanSpriteSheet_9: 2003226318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
